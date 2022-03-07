@@ -2,6 +2,8 @@
 
 # This script for use on PiHole RPI
 
+cd /home/pi/blocklist/
+
 # Compile adlist files
 hostlist-compiler -c configuration.json -o output.txt
 sleep 1
