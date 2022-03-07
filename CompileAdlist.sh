@@ -26,8 +26,12 @@ sleep 2
 
 
 #Update Github project
-
+cd /home/pi/blocklist/
 git add .
-git commit -m "update script" 
+sleep 2
+
+git commit -a -m "script" 
+sleep 2
+
 git push
 
