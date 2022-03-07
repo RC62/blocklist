@@ -28,5 +28,3 @@ sleep 5
 #Update Github project
 
 git commit -a -m "update script" & git push
-sleep 3
-
