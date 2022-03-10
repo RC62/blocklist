@@ -4,6 +4,14 @@
 
 cd /home/pi/blocklist/
 
+# Sync Local Files to Git
+
+git fetch
+sleep 1
+
+git pull
+sleep 1
+
 # Compile adlist files
 hostlist-compiler -c configuration.json -o output.txt
 sleep 2
@@ -25,7 +33,7 @@ sed '/^$/d' output.txt > robs_compiled_adlist.txt
 sleep 2
 
 
-#Update Github project
+# Update Github project
 cd /home/pi/blocklist/
 git add .
 sleep 2
