@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-03-13T07:15:14.195Z
+# Last modified: 2022-03-13T13:09:03.333Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -106481,6 +106481,7 @@ zurieskinclinic.com
  cs1807.cam4.com
  cs1808.cam4.com
  cs1809.cam4.com
+ cs3470.cam4.com
  da.cam4.com
  dev-one.cam4.com
  directoryrewrite.cam4.com
@@ -106506,6 +106507,7 @@ zurieskinclinic.com
  is.cam4.com
  it.cam4.com
  ja.cam4.com
+ jf22-r04.cam4.com
  jf22-r09.cam4.com
  jf22-r11.cam4.com
  jf22-r12.cam4.com
@@ -106542,6 +106544,7 @@ zurieskinclinic.com
  sk.cam4.com
  sl.cam4.com
  sr.cam4.com
+ start.cam4.com
  start-responsive.cam4.com
  streamate.cam4.com
  sv.cam4.com
@@ -106562,6 +106565,7 @@ zurieskinclinic.com
  webchat.cam4.com
  webchat-prelive.cam4.com
  webchat-test.cam4.com
+ ww.cam4.com
  www.cam4.com
  x-forceurlreporttipping.cam4.com
  zh.cam4.com
@@ -106687,6 +106691,7 @@ zurieskinclinic.com
  betapayment.cams.com
  blank.cams.com
  bonga.cams.com
+ boobsroulette.cams.com
  bpeucqz.cams.com
  broadcast.cams.com
  camscdn.cams.com
@@ -106715,6 +106720,7 @@ zurieskinclinic.com
  cdndal041.cams.com
  cdndal042.cams.com
  cdndal045.cams.com
+ chatroulettegirls.cams.com
  classic.cams.com
  cnbwkiqtj.cams.com
  csmtihql.cams.com
@@ -106730,6 +106736,7 @@ zurieskinclinic.com
  flame.cams.com
  flerinszs.cams.com
  graphics.cams.com
+ guysgonewild.cams.com
  guzudbsnzacbok.cams.com
  gvucypwuwr.cams.com
  gxohqcbzoptoit.cams.com
@@ -106737,9 +106744,12 @@ zurieskinclinic.com
  gzkwrbcaphczrq.cams.com
  help.cams.com
  heucnuxmrbjdp.cams.com
+ hotmatch.cams.com
  hun13.cams.com
+ hun18.cams.com
  hxkxinymx.cams.com
  imgproxy.cams.com
+ instagirls.cams.com
  ivgdgziqku.cams.com
  iwitpkieejgvce.cams.com
  ixjtipcwihcmdoa.cams.com
@@ -106764,15 +106774,18 @@ zurieskinclinic.com
  photos.cams.com
  piclist.cams.com
  pnbzfyven.cams.com
+ porn.cams.com
  pozpjsuhlsioa.cams.com
  przspjvcqt.cams.com
  qbigkgfezlj.cams.com
  qoiuqylg.cams.com
  qqunqabafeeeobm.cams.com
  qxhosvvje.cams.com
+ redtube.cams.com
  rppmdaafjevwx.cams.com
  rxondxptx.cams.com
  secure.cams.com
+ sexchatster.cams.com
  shyrlox.cams.com
  siopefpuv.cams.com
  skehebkcwqppb.cams.com
@@ -106796,19 +106809,26 @@ zurieskinclinic.com
  wordpress.cams.com
  wtoyfgsbdpyicb.cams.com
  www.cams.com
+ xmeeting.cams.com
+ xvideos.cams.com
  ymsfdrsypp.cams.com
+ youporn.cams.com
+ youporngay.cams.com
  yoxmhde.cams.com
  ypdfcqsoyjuxcxj.cams.com
  ztrqsgtzxrnx.cams.com
  camsoda.com
  0.camsoda.com
+ 0.0.camsoda.com
  0-navi.camsoda.com
  1on1cam-sex.camsoda.com
  1on1live-cam.camsoda.com
  2257.camsoda.com
  admin.camsoda.com
  admin-ord.camsoda.com
+ analreaction.camsoda.com
  ass.camsoda.com
+ auth-ns.camsoda.com
  avatars.camsoda.com
  bb.camsoda.com
  bestcam.camsoda.com
@@ -106821,32 +106841,46 @@ zurieskinclinic.com
  camiplay.camsoda.com
  camtv.camsoda.com
  cdn-modelmedia.camsoda.com
+ com.camsoda.com
+ comwww.camsoda.com
  ct.camsoda.com
  ctrlher.camsoda.com
  de.camsoda.com
+ dirty.camsoda.com
  dm.camsoda.com
  edge12-nyc.camsoda.com
  edge24-nyc.camsoda.com
  edge27-nyc.camsoda.com
  edge32-nyc.camsoda.com
  edge33-nyc.camsoda.com
+ edge34-nyc.camsoda.com
+ en.camsoda.com
  enc2.camsoda.com
  enc4.camsoda.com
+ enc5.camsoda.com
+ enc6.camsoda.com
  enc7.camsoda.com
  enc8-ord.camsoda.com
  es.camsoda.com
+ es1.camsoda.com
  exposed.camsoda.com
  ey.camsoda.com
  fan.camsoda.com
  fans.camsoda.com
+ fe.camsoda.com
+ fgns.camsoda.com
  fr.camsoda.com
  ft.camsoda.com
+ fucking.camsoda.com
  glamourcamgirls.camsoda.com
+ hubzter.camsoda.com
  ib.camsoda.com
  icu2.camsoda.com
  ingest14-nyc.camsoda.com
  ingest3-ams.camsoda.com
  it.camsoda.com
+ ix.camsoda.com
+ jizztome.camsoda.com
  julesjordan.camsoda.com
  k12.camsoda.com
  legends.camsoda.com
@@ -106868,8 +106902,10 @@ zurieskinclinic.com
  models.camsoda.com
  devs.models.camsoda.com
  natursekt.camsoda.com
+ naughty.camsoda.com
  nfs2.camsoda.com
  nh.camsoda.com
+ nl.camsoda.com
  notice.camsoda.com
  clk.notice.camsoda.com
  nymphos.camsoda.com
@@ -106878,38 +106914,55 @@ zurieskinclinic.com
  obs-ingest-oc.camsoda.com
  obs-ingest-sa.camsoda.com
  onlinecouples.camsoda.com
+ opusmobilea67.camsoda.com
  or.camsoda.com
  paktners.camsoda.com
  partners.camsoda.com
  petite.camsoda.com
  pomos.camsoda.com
+ pornkey.camsoda.com
  pornstar.camsoda.com
  pornstarsexchat.camsoda.com
  premium.camsoda.com
  private1.camsoda.com
  privatelivesexshow.camsoda.com
+ profiles.camsoda.com
  promd.camsoda.com
  promos.camsoda.com
  devs.promos.camsoda.com
  redis1.camsoda.com
  redis4.camsoda.com
+ scat.camsoda.com
+ sexcamit.camsoda.com
+ sexcamstart.camsoda.com
+ sexchatpage.camsoda.com
  signup.camsoda.com
+ sluttyangelss.camsoda.com
  small-tits.camsoda.com
  stream.camsoda.com
  stripchat.camsoda.com
  supercdn.camsoda.com
  teen.camsoda.com
  tour.camsoda.com
+ us.camsoda.com
+ vid1.camsoda.com
  vide1.camsoda.com
+ vide3.camsoda.com
  vide4-chi.camsoda.com
  vide7.camsoda.com
+ vide9.camsoda.com
+ wew.camsoda.com
  wiki.camsoda.com
  wjw.camsoda.com
  wmw.camsoda.com
+ wwo.camsoda.com
  www.camsoda.com
  www2.camsoda.com
  www3.camsoda.com
  www4.camsoda.com
+ www8.camsoda.com
+ xl.camsoda.com
+ xxxfoxtubecams.camsoda.com
  camsurf.com
  api.camsurf.com
  imap.camsurf.com
@@ -110695,8 +110748,18 @@ zurieskinclinic.com
  www.eyzwideshut.com
  faceflow.com
  api.faceflow.com
+ app.faceflow.com
+ beta.faceflow.com
+ direct.faceflow.com
  drum.faceflow.com
  signaling.faceflow.com
+ stun.faceflow.com
+ turn.faceflow.com
+ turn-frankfurt.faceflow.com
+ turn-india.faceflow.com
+ turn-sf.faceflow.com
+ turn-toronto.faceflow.com
+ www.faceflow.com
  farmersdatingapp.com
  bdata.farmersdatingapp.com
  home.farmersdatingapp.com
@@ -111220,6 +111283,7 @@ zurieskinclinic.com
  kandy-foster.flirt4free.com
  katha-love.flirt4free.com
  kaylee-s.flirt4free.com
+ kendra-grey.flirt4free.com
  laime.flirt4free.com
  laurette-deville.flirt4free.com
  lindseybanks.flirt4free.com
@@ -111605,9 +111669,11 @@ zurieskinclinic.com
  fubar.com
  222.fubar.com
  aaron.fubar.com
+ abc.fubar.com
  abhijat.fubar.com
  ads.fubar.com
  api.fubar.com
+ apps.fubar.com
  art.fubar.com
  blog.fubar.com
  chat.fubar.com
@@ -111627,12 +111693,14 @@ zurieskinclinic.com
  fff.fubar.com
  forum.fubar.com
  fr.fubar.com
+ francesca.fubar.com
  gw.fubar.com
  home.fubar.com
  hostmaster.fubar.com
  imap1.fubar.com
  internet.fubar.com
  ipe.fubar.com
+ jhayeight.fubar.com
  lwww.fubar.com
  mail10.fubar.com
  mail11.fubar.com
@@ -111660,6 +111728,7 @@ zurieskinclinic.com
  owa.fubar.com
  owl.fubar.com
  pbrand.fubar.com
+ pcc5.fubar.com
  player.fubar.com
  po.fubar.com
  pogo.fubar.com
@@ -111681,12 +111750,14 @@ zurieskinclinic.com
  simple.fubar.com
  smtpauth.fubar.com
  smtpmail.fubar.com
+ snuffdapunk4life.fubar.com
  ssl.fubar.com
  store.fubar.com
  thor.fubar.com
  tiger.fubar.com
  tina.fubar.com
  toots1974.fubar.com
+ turtle.fubar.com
  tw.fubar.com
  urlwww.fubar.com
  us.fubar.com
@@ -111771,6 +111842,16 @@ zurieskinclinic.com
  www.girl-directory.com
  girlsdocam.com
  admin.girlsdocam.com
+ s1.girlsdocam.com
+ s2.girlsdocam.com
+ s3.girlsdocam.com
+ s4.girlsdocam.com
+ s5.girlsdocam.com
+ s6.girlsdocam.com
+ s7.girlsdocam.com
+ s8.girlsdocam.com
+ webmail.girlsdocam.com
+ www.girlsdocam.com
  gleeden.com
  2.gleeden.com
  ads.gleeden.com
@@ -115031,7 +115112,10 @@ zurieskinclinic.com
  ss.myedate.com
  www.myedate.com
  myfreecams.com
+ api.myfreecams.com
+ api-edge.myfreecams.com
  app.myfreecams.com
+ assets.myfreecams.com
  clipper.myfreecams.com
  gateway.dc0.myfreecams.com
  live0.dc0.myfreecams.com
@@ -115059,6 +115143,7 @@ zurieskinclinic.com
  dev-mfc9-ext.myfreecams.com
  dev-profile1-ext.myfreecams.com
  dev-video2.myfreecams.com
+ frog.myfreecams.com
  m.myfreecams.com
  antitroll1.ord.myfreecams.com
  app-metrics.ord.myfreecams.com
@@ -115071,17 +115156,102 @@ zurieskinclinic.com
  redash-mfcalerts1.ord.myfreecams.com
  sqlmetrics.ord.myfreecams.com
  profiles.myfreecams.com
+ publish.myfreecams.com
+ publish-ams.myfreecams.com
+ publish-buh.myfreecams.com
+ publish-ord.myfreecams.com
+ publish-tuk.myfreecams.com
+ publish-tyo.myfreecams.com
  gateway.raytest.myfreecams.com
  live0.raytest.myfreecams.com
  route.raytest.myfreecams.com
  stream0.raytest.myfreecams.com
+ redwood.myfreecams.com
  mail.sea.myfreecams.com
  share.myfreecams.com
  upload.share.myfreecams.com
+ share-thumbs.myfreecams.com
  status.myfreecams.com
  stigmata-ext.myfreecams.com
  provision1.tuk.myfreecams.com
+ video1003.myfreecams.com
+ video1008.myfreecams.com
+ video1035.myfreecams.com
+ video1037.myfreecams.com
+ video1044.myfreecams.com
+ video1053.myfreecams.com
+ video1064.myfreecams.com
+ video1077.myfreecams.com
+ video1124.myfreecams.com
+ video1144.myfreecams.com
+ video1150.myfreecams.com
+ video1154.myfreecams.com
+ video1161.myfreecams.com
+ video1168.myfreecams.com
+ video1170.myfreecams.com
+ video1179.myfreecams.com
+ video1210.myfreecams.com
+ video1220.myfreecams.com
+ video1230.myfreecams.com
+ video1240.myfreecams.com
+ video351.myfreecams.com
+ video365.myfreecams.com
+ video366.myfreecams.com
+ video367.myfreecams.com
+ video368.myfreecams.com
+ video413.myfreecams.com
+ video414.myfreecams.com
+ video417.myfreecams.com
+ video451.myfreecams.com
+ video628.myfreecams.com
+ video634.myfreecams.com
+ video643.myfreecams.com
+ video647.myfreecams.com
+ video656.myfreecams.com
+ video708.myfreecams.com
+ video713.myfreecams.com
+ video714.myfreecams.com
+ video715.myfreecams.com
+ video727.myfreecams.com
+ video742.myfreecams.com
+ video743.myfreecams.com
+ video744.myfreecams.com
+ video761.myfreecams.com
+ video790.myfreecams.com
+ video795.myfreecams.com
+ video819.myfreecams.com
+ video822.myfreecams.com
+ video842.myfreecams.com
+ video851.myfreecams.com
+ video877.myfreecams.com
+ video893.myfreecams.com
+ video913.myfreecams.com
+ video922.myfreecams.com
+ video940.myfreecams.com
+ video949.myfreecams.com
+ video970.myfreecams.com
+ video984.myfreecams.com
+ video986.myfreecams.com
+ video992.myfreecams.com
+ video998.myfreecams.com
+ wchat12.myfreecams.com
+ wchat16.myfreecams.com
+ wchat28.myfreecams.com
+ wchat30.myfreecams.com
+ wchat36.myfreecams.com
+ wchat54.myfreecams.com
+ wchat56.myfreecams.com
+ wchat60.myfreecams.com
+ wchat62.myfreecams.com
+ wchat67.myfreecams.com
+ wchat69.myfreecams.com
+ wchat7.myfreecams.com
+ wchat70.myfreecams.com
+ wchat75.myfreecams.com
  wiki.myfreecams.com
+ www.myfreecams.com
+ xchat103.myfreecams.com
+ xchat42.myfreecams.com
  ysw68.myfreecams.com
  myhotdatings.com
  mylol.com
@@ -115799,6 +115969,7 @@ zurieskinclinic.com
  es.paltalk.com
  express.paltalk.com
  external.paltalk.com
+ flash.paltalk.com
  forum.paltalk.com
  forums.paltalk.com
  fr.paltalk.com
@@ -115867,9 +116038,12 @@ zurieskinclinic.com
  wsprod6.paltalk.com
  wsprod6a.paltalk.com
  wsprod7i.paltalk.com
+ wvw.paltalk.com
  wwb.paltalk.com
+ wwc.paltalk.com
  wwh.paltalk.com
  wwl.paltalk.com
+ wwn.paltalk.com
  wwp.paltalk.com
  wwr.paltalk.com
  www.paltalk.com
@@ -116984,10 +117158,28 @@ zurieskinclinic.com
  signaling.sexeey.com
  www.sexeey.com
  shagle.com
+ api.shagle.com
+ api2.shagle.com
  de.shagle.com
+ dev1.shagle.com
+ devgirls.shagle.com
  es.shagle.com
  fr.shagle.com
+ ftp.shagle.com
+ girls.shagle.com
+ imap.shagle.com
+ it.shagle.com
+ live.shagle.com
+ pop.shagle.com
+ pt.shagle.com
+ rest.shagle.com
+ rest2.shagle.com
  static.shagle.com
+ static2.shagle.com
+ url6686.shagle.com
+ webmail.shagle.com
+ wmchat.shagle.com
+ www.shagle.com
  shagtogether.com
  cams.shagtogether.com
  m.shagtogether.com
