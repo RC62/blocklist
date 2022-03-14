@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-03-13T13:09:03.333Z
+# Last modified: 2022-03-14T07:15:15.667Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -124149,6 +124149,7 @@ zurieskinclinic.com
  pray.afa.net
  pulseway.afa.net
  resources.afa.net
+ site2.resources.afa.net
  shareathonwebhook.afa.net
  track.spark-post.afa.net
  streamer1.afa.net
