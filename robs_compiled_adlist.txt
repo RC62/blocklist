@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-03-15T07:15:15.341Z
+# Last modified: 2022-03-16T07:15:14.414Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -36,6 +36,7 @@ x4w8j5q4.stackpathcdn.com
 # Source: https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 #
 021414243.com
+103-136-41-111.hosted-by-worldstream.net
 1-1.lt
 123hpcom.site
 2design.rafafernandez.cat
@@ -47,6 +48,7 @@ x4w8j5q4.stackpathcdn.com
 5acoesdemarketing.com.br
 a2b.ac.id
 aagroup.com.ph
+aaticd.co.za
 abnewslive.in
 acampark.com.br
 accesswebtech.com.ng
@@ -62,7 +64,9 @@ admissions.hitam.org
 adrianinsulationllc.com
 ads.gameofselling.com
 aemaupsmoorkanad.in
+aesiafrique.com
 afnac.tresud.org
+afrivac.org
 agencianavegue.com.br
 aiccb.org
 airjordanscattery.com
@@ -72,12 +76,14 @@ akluum.com
 aktaku.id
 akuatik.fpik.undip.ac.id
 albahertrainingcenter.com
+alebit.de
 aleka.neonek.com
 alfanargroup.today
 alfatechsolution.com.np
 alittlebrave.com
 alkaelectronics.co.in
 allseotoolskit.com
+almoiz.com
 alphatransus.com
 alucostar.website
 alumnos.uiwbajio.mx
@@ -98,6 +104,7 @@ application.app.br
 app.marc-concours.com
 approvedcarinsurance.com
 app.valluva.com
+aquinoabogados.com.ar
 arabeak.com
 arabecbank.com
 archicadofficial.kweb.hk
@@ -107,6 +114,7 @@ arodagira.com.br
 arribacorazones.com
 artist.salvationtattoolounge.com
 as4estacoes.pt
+asave.com.mx
 asesores.com.sv
 asesoriainternacional.com.mx
 asnethome.net
@@ -117,14 +125,20 @@ atifwears.com
 atmotechsolution.co.in
 aucklandcarpetcleaning.org.nz
 auxiliarymanagement.com
+avcservices-tt.com
+avrworks.com
+az-10.sakura.ne.jp
 azimihotel.in
 baaroq.com
 bahar669.com
 balightravel.com
 baligrouptrekkingtour.com
 ballatstone.com
+ballpointmedia.com
+bangplamahospital.com
 baogia.cokhitienbo.vn
 barsaji.com.mx
+basepainters.com
 bbpgz.com
 beactive.com.br
 beecoin.biz
@@ -191,6 +205,7 @@ cattlepartners.com
 ccmasheville.com
 ceciliamakeup.com
 cees-ease.com
+ceibadiseno.com.mx
 celikkapici.gen.tr
 centralparkadoor.com
 ceysaenerji.com.tr
@@ -200,6 +215,7 @@ cgi-international.com
 chabelolandscapingandtreeservice.com
 chakolwa.com
 changeyourlife-2022.com
+chap24pro.com
 chat-animator.online
 chhaganlalandco.com
 chhetrapal.edu.np
@@ -208,6 +224,7 @@ chikmagaluradventures.com
 chrelisa.com
 ciorsrl.com.ar
 civilcolombia.com
+classoffinance.com
 clertic.cl
 clickittechnologies.com
 clingcard.co.uk
@@ -254,6 +271,8 @@ datanetpc.com.pe
 datenex.com
 daystar.ac.ke
 dbind.in
+dcsdesenvolvimento.com.br
+ddl8.data.hu
 decifrar.com.br
 deepaklonstattoo.com
 deep-researchx.com
@@ -264,6 +283,7 @@ dentalclinicbangalore.ldsc.in
 desawisatacisaat.com
 despanel.xyz
 destinazionecuba.it
+dev-automation.gogetitleads.com
 developer.himflax.com
 deviotech.com
 dev-landing.psikologicare.com
@@ -308,12 +328,15 @@ duniamedicare.com
 e3commerce.net
 earth.24x7wpsupport.com
 eastmatt.com
+ebjfnsrvltd.in
 ebmspa.cl
 ecologicformaturas.com.br
 educaplus-zg.com
 edufinder.alakmalak.ca
 e-expression.com
 ejankari.com
+ejeana.co.ug
+ejgsltd.com
 ekosol.ba
 elav.pe
 electroemart.com
@@ -364,6 +387,7 @@ find-a-good-attorney.com
 finessecarpetcleaners.net
 finfit.co.za
 firnasshuman.com
+fitfabtherapy.com
 five.fivedimensiongold.com
 fleacontrol.co.nz
 flipbooks.com.br
@@ -424,6 +448,8 @@ halaresidency.com
 hamzatradersbkr.com
 handsomeher.com.au
 hannaegypt.com
+healthywaylab.in
+herbtytox.com
 highnlow.my
 hightensilebolt.co.in
 hingangaongrampanchayat-km.in
@@ -433,6 +459,7 @@ hlm-indonesia.com
 holandaproducciones.cl
 holzhausbauen.eu
 homaasanbar.com
+homi-egypt.com
 hospedeoculto.com.br
 host-coin-data-1.com
 hostevec.com
@@ -504,6 +531,7 @@ ji1.in
 jicsblr.com
 jkla.com.br
 joannalawoffice.com
+jockeyplaste.com
 jollypharmaindia.com
 jonathanbartz.com
 journeypropertysolutions.com
@@ -550,8 +578,10 @@ learn.bsdi-bd.org
 legaladhikar.com
 lememovelaria.com.br
 lensrent.co.za
+letea.eu
 letoguna.ml
 licensewale.com
+life-aid.in
 liviabordea.ro
 livrearbitriotabacaria.com.br
 lluvias.tv
@@ -594,6 +624,7 @@ matomo.csaindo.id
 matrix.kreatravel.com
 matrix.traveladventour.mx
 matrixvfx.com
+mattcomputadores.com
 mavenroche.com
 maxlover.in
 maxpowergears.digitalcard.fun
@@ -656,6 +687,7 @@ news.uposit.me
 ngthanhquang.com
 nikamclasses.com
 ninevehtrust.org.uk
+nipi.co.za
 nisa-accessories.de
 nizambd.com
 nms.gov.bz
@@ -679,6 +711,7 @@ olliveiras.com
 ona.pradex.pl
 onxon77.com
 opengrowthnew.ehostinguk.com
+optihealthwellness.com
 orchidgardenthai.com
 order.sindhsweets.com
 oremoralesabogados.com.pe
@@ -697,6 +730,7 @@ paracletepublishers.org
 paradisegc.net
 parkwooddoors.com.au
 parkwooddoors.co.nz
+part-co.org
 pastabassi.com.br
 patentortrademark.com
 paupabiraftaar.co.in
@@ -706,6 +740,7 @@ pesanku.com
 petset.com.pk
 phatbeatsradio.com
 phonicsenergy.com
+physioacademy.co.uk
 piloxia.com
 pivicoair.com
 pizza-italia.hu
@@ -714,10 +749,12 @@ planetasoft.com
 platform.unalink.net
 poilbartalivetv.xyz
 policianacional.cv
+populaceindia.com
 portoepereira.com.br
 pos.appsdemo.xyz
 post.sharmgotransfer.com
 powerfulmantra.in
+praachichemfood.com
 pragyeshthakkar.com
 prakritikoirala.com.np
 pranavanandasevashram.org
@@ -730,6 +767,7 @@ profesores.uiwbajio.mx
 profmarcoscosta.com.br
 promointl.ae
 promomobilnissan.com
+protokol.mx
 protonseletrica.com
 proyectoschavez.com.mx
 prsmvengineers.com
@@ -741,6 +779,7 @@ qpaineis.com.br
 qsa.co.in
 quattrannhat.vn
 querole.com.br
+quickcompanyreg.co.za
 racabinates99enterprises.in
 rachelduffphotography.com
 radiofeatlanta.com
@@ -754,6 +793,7 @@ realdatasolutions.net
 rebelgaming.co.za
 rebirthbycounseling.com
 rehobothhotelapartments.com
+relance.msk.ru
 render.eonmm.com
 renegociascore.com.br
 rest-api.desawisatacisaat.com
@@ -763,11 +803,13 @@ ricardolimite.com
 rigidsolutions.co.uk
 rithikengineering.com
 rizalone.com.ph
+royaldrycleaners.co.ke
 royaliptvhd.com
 royalkingaircoolers.com
 royanspa.ir
 rsc-host.com
 rsvproperties.co.za
+rtapakistan.com
 rylanderrichter.com
 sacar.com.br
 sachinmanchanda.com
@@ -832,18 +874,22 @@ social.ourfriendzy.com
 sociofans.com
 socket.fooza.in
 softaromas.com.ar
+software-house.co.uk
 soherwardiasolar.com
 solidsalt.com
 somahwellness.com
 somcorbera.cat
 somelco.com
+somes.org.tr
 soslegal.com.pe
 soswebservicos.com.br
 sottraining.com
 souibi.com
 southafricahappenings.co.za
+spanish.swslawfirm.com
 sparklescake.com
 spipvtltd.com
+sport-foto.nu
 spptti-timur.com
 spryness.com.ng
 sshomeo.com
@@ -863,6 +909,7 @@ suadha.org
 subhagruha.in
 sultan.almaddahocean.com
 sumersteel.com
+support.techopesolutions.com
 sursargam.org
 sve1.it
 swichpower.com
@@ -892,6 +939,7 @@ tedxbissallard.com
 teleortho.com.au
 temp-admission.kmcthealthsciences.org
 terexconfort.ro
+termaslospozones.com
 teslascans.com
 tesslaw.com
 test.cliniconnect.com.au
@@ -922,6 +970,7 @@ tranquilcloudtemple.com
 transferencia.co
 transworshipcenter.org
 trencharquitetura.com.br
+triplonet.com.br
 trzgestao.com.br
 tsuiterublog.com
 tukclassespracticeweb.co.ke
@@ -939,6 +988,7 @@ ugomall.hk
 ulace.com.mx
 ulurucampers.com.au
 umami-learning.com
+unada.us
 unitedforher.flapbead.com
 universalenterprises-epc.com
 unlimitedrealtysolutions.com
@@ -946,6 +996,7 @@ uposit.me
 upwportugal.com
 urielcoffee.com
 usmadetshirts.com
+utdpmipekanbaru.or.id
 valeryone.com
 valtyca.com
 vandevihing.com
@@ -972,6 +1023,7 @@ vsldestudio.net
 vtakshop.ir
 vulkanbonus.drtrclab.in
 vulkanspinbonus.shaadii.in
+vulkanvegasbonus.jeunete.com
 vulkanwin.techibandhu.com
 wanaka-portal.uat.lk
 wapbuzz.in
@@ -987,6 +1039,7 @@ weddingphotographerinagra.com
 weddingphotographyjaipur.com
 weiterbildungs-shop.com
 wesa.com.ar
+westthamesphysio.com
 weworldnews.com
 whotnews.com.ng
 wibengineering.com
@@ -998,15 +1051,29 @@ wpdev.myprojectstaging.com
 wp-projects.xyz
 wptest.softwave.lk
 www.0-24bpautomentes.hu
+www.adcreators.com.au
 www.addahealingmusic.com
+www.afyonmagazin.com
+www.almoeqatar.com
+www.altoxi.com
+www.apesb.com
+www.ara-choob.com
+www.asyadegirmen.com
+www.avrworks.com
+www.babylinesl.com
 www.cameraa.co.uk
 www.chrelisa.com
+www.citybridgesc.at
 www.diplomadomedicosgenerales.com
+www.e-tactics.com
 www.grupo101.com.ar
 www.idtbilisim.com
+www.manchesterslt.co.uk
 www.ninevehtrust.org.uk
+www.nipunpharmaskill.com
 www.porvootransitioncare.com
 www.rockwoodsaloon.com
+www.techniquesbroadband.net
 www.theduporthriverside.com.au
 xcelvationsjr.com
 xcoolwunmigroups.com.ng
@@ -1017,6 +1084,7 @@ yates.ticondigital.com
 youngsera.com
 zaparetech.com
 zbuilder-bim.com
+zerit.top
 zero61drone.com.br
 zpdesigner.sigmaitbs.com
 zurieskinclinic.com
@@ -123111,6 +123179,11 @@ zurieskinclinic.com
  www.1776.shop
  dailystormer.su
  247www.dailystormer.su
+ 103.94.247www.dailystormer.su
+ de.dailystormer.su
+ forum.dailystormer.su
+ forums.dailystormer.su
+ it.dailystormer.su
  ns1.dailystormer.su
  ns2.dailystormer.su
  smtp.dailystormer.su
@@ -128877,7 +128950,6 @@ zurieskinclinic.com
  cdn.simpleanalytics.io
  edge.simplereach.com
  simplesharebuttons.com
- simpletexting.com
  ads.simpli.fi
  east.ads.simpli.fi
  west.ads.simpli.fi
