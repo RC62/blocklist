@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-03-19T07:15:14.404Z
+# Last modified: 2022-03-19T17:06:16.705Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
@@ -116545,10 +116545,6 @@ zerit.top
  thedovetailranchnv.com
  www.thedovetailranchnv.com
  thehookupsapp.com
- mail.thehookupsapp.com
- ns1.thehookupsapp.com
- ns2.thehookupsapp.com
- parse.thehookupsapp.com
  www.thehookupsapp.com
  thekorral.com
  mail.thekorral.com
@@ -117946,7 +117942,6 @@ zerit.top
  gay.aboriginal.dating
  local.aboriginal.dating
  staging.aboriginal.dating
- accidentaldivorcee.dating
  accommo.dating
  www.accommo.dating
  acting.dating
@@ -119506,6 +119501,10 @@ zerit.top
  unitone-redash.pairs.lv
  w.pairs.lv
  www.pairs.lv
+ coolmeet.me
+ ja.coolmeet.me
+ ko.coolmeet.me
+ www.coolmeet.me
  douwant.me
  m.douwant.me
  mx1.douwant.me
