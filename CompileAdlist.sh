@@ -14,22 +14,22 @@ sleep 1
 
 # Compile adlist files
 hostlist-compiler -c configuration.json -o output.txt
-sleep 3
+sleep 30
 
 # Cleanup IPs
-sed -i ''"s/127.0.0.1//g" output.txt > output1.txt
+sed -i ''"s/127.0.0.1//g" output.txt
 sleep 3
 
-sed -i ''"s/0.0.0.0//g" output1.txt > output2.txt
+sed -i ''"s/0.0.0.0//g" output.txt
 sleep 3
 
 # Cleanup comments - replace "!" with "#"
-sed -i ''"s/\!/\#/g" output2.txt > output3.txt
+sed -i ''"s/\!/\#/g" output.txt
 sleep 3
 
 # Remove all empty lines
 
-sed '/^$/d' output3.txt > robs_compiled_adlist.txt
+sed '/^$/d' output.txt > robs_compiled_adlist.txt
 sleep 3
 
 
