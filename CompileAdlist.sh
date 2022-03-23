@@ -18,21 +18,22 @@ sleep 15
 
 # Cleanup IPs
 sed -i ''"s/127.0.0.1//g" output.txt
-sleep 3
+sleep 5
 
 sed -i ''"s/0.0.0.0//g" output.txt
-sleep 3
+sleep 5
 
 # Cleanup comments - replace "!" with "#"
 sed -i ''"s/\!/\#/g" output.txt
-sleep 3
+sleep 5
 
 # Remove all IP lines
-sed -i 's/^([0-9]+)\.([0-9]+)\.([0-9]+)\.([0-9]+)$//g' output.txt
-sleep 3
+sed '/^([0-9]+)\.([0-9]+)\.([0-9]+)\.([0-9]+)$/d' output.txt
+sleep 5
 
 # Remove all empty lines
 sed '/^$/d' output.txt > robs_compiled_adlist.txt
+sleep 5
 
 # Update Github project
 cd /home/pi/blocklist/
