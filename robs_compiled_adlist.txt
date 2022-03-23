@@ -3,7 +3,7 @@
 # Description: Compilation of PiHole Lists
 # Homepage: https://raw.githubusercontent.com/RC62/pihole/
 # License: GPLv3
-# Last modified: 2022-03-23T01:27:17.834Z
+# Last modified: 2022-03-23T07:15:12.125Z
 #
 # Compiled by @adguard/hostlist-compiler v1.0.12
 #
