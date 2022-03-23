@@ -28,8 +28,8 @@ sed -i ''"s/\!/\#/g" output.txt
 sleep 5
 
 # Remove all IP lines
-sed ''"/s/^([0-9]+)\.([0-9]+)\.([0-9]+)\.([0-9]+)$//g" output.txt
-sleep 5
+# sed -e '/s/^([0-9]+)\.([0-9]+)\.([0-9]+)\.([0-9]+)$//g' output.txt
+# sleep 5
 
 # Remove all empty lines
 sed '/^$/d' output.txt > robs_compiled_adlist.txt

@@ -57,12 +57,6 @@
       "source": "https://raw.githubusercontent.com/RC62/pihole/main/TV_List.txt",
       "type": "hosts",
       "transformations": ["RemoveComments", "Validate", "Deduplicate"]
-    },
-    {
-      "name": "SNAFU Host List",
-      "source": "https://curben.gitlab.io/malware-filter/urlhaus-filter-domains.txt",
-      "type": "hosts",
-      "transformations": ["RemoveComments", "Validate", "Deduplicate"]
     }
   ],
   "transformations": ["Deduplicate"]
