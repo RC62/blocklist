@@ -14,7 +14,7 @@ sleep 1
 
 # Compile adlist files
 hostlist-compiler -c configuration.json -o output.txt
-sleep 30
+sleep 15
 
 # Cleanup IPs
 sed -i ''"s/127.0.0.1//g" output.txt
