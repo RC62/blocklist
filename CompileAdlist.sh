@@ -28,7 +28,7 @@ sed -i ''"s/\!/\#/g" output.txt
 sleep 3
 
 # Remove all IP lines
-sed -i ''"s/^([0-9]+)\.([0-9]+)\.([0-9]+)\.([0-9]+)$//g" output.txt
+sed -i 's/^([0-9]+)\.([0-9]+)\.([0-9]+)\.([0-9]+)$//g' output.txt
 sleep 3
 
 # Remove all empty lines
