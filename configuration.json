@@ -5,12 +5,6 @@
   "license": "GPLv3",
   "sources": [
     {
-      "name": "Robs List",
-      "source": "https://raw.githubusercontent.com/RC62/pihole/main/Robs_List.txt",
-      "type": "hosts",
-      "transformations": ["RemoveComments", "Validate", "Deduplicate"]
-    },
-    {
       "name": "Threat Intel Firebog Ticked List",
       "source": "https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt",
       "type": "hosts",
@@ -19,12 +13,6 @@
     {
       "name": "Steven Black Default PiHole List",
       "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
-      "type": "hosts",
-      "transformations": ["RemoveComments", "Validate", "Deduplicate"]
-    },
-    {
-      "name": "Developer Dan Dating List",
-      "source": "https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt",
       "type": "hosts",
       "transformations": ["RemoveComments", "Validate", "Deduplicate"]
     },
@@ -49,12 +37,6 @@
     {
       "name": "SNAFU Host List",
       "source": "https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt",
-      "type": "hosts",
-      "transformations": ["RemoveComments", "Validate", "Deduplicate"]
-    },
-    {
-      "name": "List for Apple TV",
-      "source": "https://raw.githubusercontent.com/RC62/pihole/main/TV_List.txt",
       "type": "hosts",
       "transformations": ["RemoveComments", "Validate", "Deduplicate"]
     }
