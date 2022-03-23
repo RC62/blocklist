@@ -28,8 +28,10 @@ sed -i ''"s/\!/\#/g" output.txt
 sleep 3
 
 # Remove all empty lines
+sed '/^$/d' output.txt > output2.txt
 
-sed '/^$/d' output.txt > robs_compiled_adlist.txt
+# Remove all IP lines
+sed '/^([0-9]+)\.([0-9]+)\.([0-9]+)\.([0-9]+)$/d' output2.txt > robs_compiled_adlist.txt
 sleep 3
 
 
