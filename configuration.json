@@ -8,7 +8,7 @@
       "name": "Robs List",
       "source": "https://raw.githubusercontent.com/RC62/pihole/main/Robs_List.txt",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Validate"]
+      "transformations": ["RemoveComments", "Validate", "Deduplicate"]
     },
     {
       "name": "Threat Intel Firebog Ticked List",
@@ -50,8 +50,8 @@
       "name": "List for Apple TV",
       "source": "https://raw.githubusercontent.com/RC62/pihole/main/TV_List.txt",
       "type": "hosts",
-      "transformations": ["RemoveComments", "Validate"]
+      "transformations": ["RemoveComments", "Validate", "Deduplicate"]
     }
   ],
-  "transformations": ["Deduplicate"]
+  "transformations": ["RemoveComments", "Validate", "Deduplicate"]
 }
