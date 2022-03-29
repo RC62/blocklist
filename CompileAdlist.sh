@@ -7,20 +7,20 @@ cd /home/pi/blocklist/
 # Sync Local Files to Git
 
 git fetch
-sleep 1
+sleep 5
 
 git pull
-sleep 1
+sleep 5
 
 # Compile adlist files
 hostlist-compiler -c configuration.json -o output.txt
-sleep 15
-
-# Cleanup IPs
-sed -i ''"s/127.0.0.1//g" output.txt
 sleep 5
 
-sed -i ''"s/0.0.0.0//g" output.txt
+# Cleanup IPs
+sed -i ''"s/127.0.0.1 //g" output.txt
+sleep 5
+
+sed -i ''"s/0.0.0.0 //g" output.txt
 sleep 5
 
 # Cleanup comments - replace "!" with "#"
@@ -45,3 +45,6 @@ sleep 3
 
 git push
 
+sleep 3
+
+exit
